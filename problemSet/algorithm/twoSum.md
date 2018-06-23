@@ -1,4 +1,4 @@
-# <a id="twoSum"></a>1. 两数之和&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.twoSum] #
+# <a id="twoSum"></a>两数之和&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.twoSum] #
 
 ## 描述 ##
 

@@ -1,4 +1,4 @@
-# <a id="reverseInteger"></a>7. 反转整数&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.reverseInteger] #
+# <a id="reverseInteger"></a>反转整数&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.reverseInteger] #
 
 ## 描述 ##
 
@@ -71,9 +71,9 @@ var reverse = function(x) {
 
 ## 参考 ##
 
-* LeetCode (中国) 题库 算法 两数之和  
+* LeetCode (中国) 题库 算法 反转整数  
   <https://leetcode-cn.com/problems/reverse-integer/description/>
-* LeetCode problems two-sum  
+* LeetCode problems reverse-integer  
   <https://leetcode.com/problems/reverse-integer/>
 
 <!-- 链接 开始 -->
