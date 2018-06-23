@@ -6,7 +6,8 @@ LeetCode (中国) 笔记
 
 ### <a id="problemSet.algorithm"></a>算法 ###
 
-1\. <a id="problemSet.algorithm.twoSum"></a>两数之和 &nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.twoSum]
+* 1\. <a id="problemSet.algorithm.twoSum"></a>两数之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.twoSum]
+* 7\. <a id="problemSet.algorithm.reverseInteger"></a>反转整数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseInteger]
 
 ## 参考 ##
 
@@ -17,4 +18,5 @@ LeetCode (中国) 笔记
 
 <!-- 链接 开始 -->
 [problemSet.algorithm.twoSum]: problemSet/algorithm/twoSum.md#twoSum "两数之和"
+[problemSet.algorithm.reverseInteger]: problemSet/algorithm/reverseInteger.md#reverseInteger "反转整数"
 <!-- 链接 结束 -->

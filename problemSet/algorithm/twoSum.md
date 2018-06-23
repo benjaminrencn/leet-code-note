@@ -1,4 +1,4 @@
-# <a id="twoSum"></a>1\. 两数之和&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.twoSum] #
+# <a id="twoSum"></a>1. 两数之和&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.twoSum] #
 
 ## 描述 ##
 
@@ -10,7 +10,7 @@
 
 > 给定 nums = [2, 7, 11, 15], target = 9
 >
-> 因为 nums[0] + nums[1] = 2 + 7 = 9
+> 因为 nums[0] + nums[1] = 2 + 7 = 9  
 > 所以返回 [0, 1]
 
 ## 解答 ##
@@ -111,7 +111,7 @@ var twoSum = function(nums, target) {
 * LeetCode (中国) 题库 算法 两数之和  
   <https://leetcode-cn.com/problems/two-sum/description/>
 * LeetCode problems two-sum  
-  <https://leetcode.com/>
+  <https://leetcode.com/problems/two-sum/>
 
 <!-- 链接 开始 -->
 [readme.problemSet.algorithm.twoSum]: ../../README.md#problemSet.algorithm.twoSum "README"
