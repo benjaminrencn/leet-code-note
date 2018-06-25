@@ -10,6 +10,7 @@ LeetCode (中国) 笔记
 * 7\. <a id="problemSet.algorithm.reverseInteger"></a>反转整数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseInteger]
 * 9\. <a id="problemSet.algorithm.palindromeNumber"></a>回文数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.palindromeNumber]
 * 13\. <a id="problemSet.algorithm.romanToInteger"></a>罗马数字转整数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.romanToInteger]
+* 14\. <a id="problemSet.algorithm.longestCommonPrefix"></a>最长公共前缀&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.longestCommonPrefix]
 
 ## 参考 ##
 
@@ -23,4 +24,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.reverseInteger]: problemSet/algorithm/reverseInteger.md#reverseInteger "反转整数"
 [problemSet.algorithm.palindromeNumber]: problemSet/algorithm/palindromeNumber.md#palindromeNumber "回文数"
 [problemSet.algorithm.romanToInteger]: problemSet/algorithm/romanToInteger.md#romanToInteger "罗马数字转整数"
+[problemSet.algorithm.longestCommonPrefix]: problemSet/algorithm/longestCommonPrefix.md#longestCommonPrefix "最长公共前缀"
 <!-- 链接 结束 -->
