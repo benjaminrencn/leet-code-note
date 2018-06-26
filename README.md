@@ -13,6 +13,7 @@ LeetCode (中国) 笔记
 * 14\. <a id="problemSet.algorithm.longestCommonPrefix"></a>最长公共前缀&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.longestCommonPrefix]
 * 20\. <a id="problemSet.algorithm.validParentheses"></a>有效的括号&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validParentheses]
 * 21\. <a id="problemSet.algorithm.mergeTwoSortedLists"></a>合并两个有序链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.mergeTwoSortedLists]
+* 26\. <a id="problemSet.algorithm.removeDuplicatesFromSortedArray"></a>删除排序数组中的重复项&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.removeDuplicatesFromSortedArray]
 
 ## 参考 ##
 
@@ -29,4 +30,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.longestCommonPrefix]: problemSet/algorithm/longestCommonPrefix.md#longestCommonPrefix "最长公共前缀"
 [problemSet.algorithm.validParentheses]: problemSet/algorithm/validParentheses.md#validParentheses "有效的括号"
 [problemSet.algorithm.mergeTwoSortedLists]: problemSet/algorithm/mergeTwoSortedLists.md#mergeTwoSortedLists "合并两个有序链表"
+[problemSet.algorithm.removeDuplicatesFromSortedArray]: problemSet/algorithm/removeDuplicatesFromSortedArray.md#removeDuplicatesFromSortedArray "删除排序数组中的重复项"
 <!-- 链接 结束 -->
