@@ -29,7 +29,7 @@
 
 字符反转
 
-392ms
+`392ms` `60.96%`
 
 ```javascript
 /**
@@ -44,7 +44,7 @@ var isPalindrome = function(x) {
 
 反转一半数字
 
-384ms
+`384ms` `68.46%`
 
 ```javascript
 /**
@@ -67,7 +67,7 @@ var isPalindrome = function(x) {
 
 头尾比较
 
-336ms
+`336ms` `93.43%`
 
 ```javascript
 /**

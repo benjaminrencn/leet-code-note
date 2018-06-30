@@ -49,7 +49,7 @@
 
 从左开始互换
 
-108ms
+`108ms` `6.05%`
 
 ```javascript
 /**
@@ -73,7 +73,7 @@ var removeElement = function(nums, val) {
 
 双指针不用互换
 
-76ms
+`76ms` `72.11%`
 
 ```javascript
 /**

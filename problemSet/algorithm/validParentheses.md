@@ -40,7 +40,7 @@
 
 去除相邻括号
 
-880ms
+`880ms` `2.47%`
 
 ```javascript
 /**
@@ -80,7 +80,7 @@ var isValid = function(s) {
 
 栈
 
-76ms
+`76ms` `73.73%`
 
 ```javascript
 /**

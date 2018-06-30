@@ -17,7 +17,7 @@
 
 暴力法
 
-114ms
+`114ms` `74.50%`
 
 ```javascript
 /**
@@ -40,7 +40,7 @@ var twoSum = function(nums, target) {
 
 两遍哈希表
 
-88ms
+`88ms` `85.90%`
 
 ```javascript
 /**

@@ -30,7 +30,7 @@
 
 indexOf 加遍历插入
 
-72ms
+`72ms` `81.11%`
 
 ```javascript
 /**
@@ -56,7 +56,7 @@ var searchInsert = function(nums, target) {
 
 indexOf 加遍历
 
-76ms
+`76ms` `66.25%`
 
 ```javascript
 /**

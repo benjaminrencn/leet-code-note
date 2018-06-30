@@ -27,7 +27,7 @@
 
 字符反转
 
-100ms
+`100ms` `92.70%`
 
 ```javascript
 /**
@@ -47,7 +47,7 @@ var reverse = function(x) {
 
 数字反转
 
-100ms
+`100ms` `92.70%`
 
 ```javascript
 /**

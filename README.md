@@ -17,6 +17,7 @@ LeetCode (中国) 笔记
 * 27\. <a id="problemSet.algorithm.removeElement"></a>移除元素&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.removeElement]
 * 28\. <a id="problemSet.algorithm.implementStrstr"></a>实现 strStr()&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.implementStrstr]
 * 35\. <a id="problemSet.algorithm.searchInsertPosition"></a>搜索插入位置&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.searchInsertPosition]
+* 38\. <a id="problemSet.algorithm.countAndSay"></a>报数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.countAndSay]
 
 ## 参考 ##
 
@@ -37,4 +38,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.removeElement]: problemSet/algorithm/removeElement.md#removeElement "移除元素"
 [problemSet.algorithm.implementStrstr]: problemSet/algorithm/implementStrstr.md#implementStrstr "实现 strStr()"
 [problemSet.algorithm.searchInsertPosition]: problemSet/algorithm/searchInsertPosition.md#searchInsertPosition "搜索插入位置"
+[problemSet.algorithm.countAndSay]: problemSet/algorithm/countAndSay.md#countAndSay "报数"
 <!-- 链接 结束 -->
