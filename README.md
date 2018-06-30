@@ -19,7 +19,8 @@ LeetCode (中国) 笔记
 * 35\. <a id="problemSet.algorithm.searchInsertPosition"></a>搜索插入位置&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.searchInsertPosition]
 * 38\. <a id="problemSet.algorithm.countAndSay"></a>报数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.countAndSay]
 * 53\. <a id="problemSet.algorithm.maximumSubarray"></a>最大子序和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.maximumSubarray]
-* 53\. <a id="problemSet.algorithm.lengthOfLastWord"></a>最后一个单词的长度&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.lengthOfLastWord]
+* 58\. <a id="problemSet.algorithm.lengthOfLastWord"></a>最后一个单词的长度&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.lengthOfLastWord]
+* 66\. <a id="problemSet.algorithm.plusOne"></a>加一&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.plusOne]
 
 ## 参考 ##
 
@@ -43,4 +44,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.countAndSay]: problemSet/algorithm/countAndSay.md#countAndSay "报数"
 [problemSet.algorithm.maximumSubarray]: problemSet/algorithm/maximumSubarray.md#maximumSubarray "最大子序和"
 [problemSet.algorithm.lengthOfLastWord]: problemSet/algorithm/lengthOfLastWord.md#lengthOfLastWord "最后一个单词的长度"
+[problemSet.algorithm.plusOne]: problemSet/algorithm/plusOne.md#plusOne "加一"
 <!-- 链接 结束 -->
