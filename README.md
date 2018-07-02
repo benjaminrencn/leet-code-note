@@ -23,6 +23,7 @@ LeetCode (中国) 笔记
 * 66\. <a id="problemSet.algorithm.plusOne"></a>加一&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.plusOne]
 * 67\. <a id="problemSet.algorithm.addBinary"></a>二进制求和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.addBinary]
 * 69\. <a id="problemSet.algorithm.sqrtX"></a>x 的平方根&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sqrtX]
+* 70\. <a id="problemSet.algorithm.climbingStairs"></a>爬楼梯&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.climbingStairs]
 
 ## 参考 ##
 
@@ -49,4 +50,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.plusOne]: problemSet/algorithm/plusOne.md#plusOne "加一"
 [problemSet.algorithm.addBinary]: problemSet/algorithm/addBinary.md#addBinary "二进制求和"
 [problemSet.algorithm.sqrtX]: problemSet/algorithm/sqrtX.md#sqrtX "x 的平方根"
+[problemSet.algorithm.climbingStairs]: problemSet/algorithm/climbingStairs.md#climbingStairs "爬楼梯"
 <!-- 链接 结束 -->
