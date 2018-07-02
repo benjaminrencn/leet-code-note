@@ -25,6 +25,7 @@ LeetCode (中国) 笔记
 * 69\. <a id="problemSet.algorithm.sqrtX"></a>x 的平方根&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sqrtX]
 * 70\. <a id="problemSet.algorithm.climbingStairs"></a>爬楼梯&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.climbingStairs]
 * 83\. <a id="problemSet.algorithm.removeDuplicatesFromSortedList"></a>删除排序链表中的重复元素&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.removeDuplicatesFromSortedList]
+* 88\. <a id="problemSet.algorithm.mergeSortedArray"></a>合并两个有序数组&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.mergeSortedArray]
 
 ## 参考 ##
 
@@ -53,4 +54,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.sqrtX]: problemSet/algorithm/sqrtX.md#sqrtX "x 的平方根"
 [problemSet.algorithm.climbingStairs]: problemSet/algorithm/climbingStairs.md#climbingStairs "爬楼梯"
 [problemSet.algorithm.removeDuplicatesFromSortedList]: problemSet/algorithm/removeDuplicatesFromSortedList.md#removeDuplicatesFromSortedList "删除排序链表中的重复元素"
+[problemSet.algorithm.mergeSortedArray]: problemSet/algorithm/mergeSortedArray.md#mergeSortedArray "合并两个有序数组"
 <!-- 链接 结束 -->

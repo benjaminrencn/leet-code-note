@@ -1,4 +1,4 @@
-# <a id="removeDuplicatesFromSortedList"></a>爬楼梯&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.removeDuplicatesFromSortedList] #
+# <a id="removeDuplicatesFromSortedList"></a>删除排序链表中的重复元素&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.removeDuplicatesFromSortedList] #
 
 ## 描述 ##
 
