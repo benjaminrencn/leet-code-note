@@ -28,6 +28,7 @@ LeetCode (中国) 笔记
 * 88\. <a id="problemSet.algorithm.mergeSortedArray"></a>合并两个有序数组&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.mergeSortedArray]
 * 100\. <a id="problemSet.algorithm.sameTree"></a>相同的树&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sameTree]
 * 101\. <a id="problemSet.algorithm.symmetricTree"></a>对称二叉树 &nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.symmetricTree]
+* 104\. <a id="problemSet.algorithm.maximumDepthOfBinaryTree"></a>二叉树的最大深度 &nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.maximumDepthOfBinaryTree]
 
 ## 参考 ##
 
@@ -59,4 +60,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.mergeSortedArray]: problemSet/algorithm/mergeSortedArray.md#mergeSortedArray "合并两个有序数组"
 [problemSet.algorithm.sameTree]: problemSet/algorithm/sameTree.md#sameTree "相同的树"
 [problemSet.algorithm.symmetricTree]: problemSet/algorithm/symmetricTree.md#symmetricTree "对称二叉树"
+[problemSet.algorithm.maximumDepthOfBinaryTree]: problemSet/algorithm/maximumDepthOfBinaryTree.md#maximumDepthOfBinaryTree "二叉树的最大深度"
 <!-- 链接 结束 -->
