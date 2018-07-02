@@ -22,6 +22,7 @@ LeetCode (中国) 笔记
 * 58\. <a id="problemSet.algorithm.lengthOfLastWord"></a>最后一个单词的长度&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.lengthOfLastWord]
 * 66\. <a id="problemSet.algorithm.plusOne"></a>加一&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.plusOne]
 * 67\. <a id="problemSet.algorithm.addBinary"></a>二进制求和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.addBinary]
+* 69\. <a id="problemSet.algorithm.sqrtX"></a>x 的平方根&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sqrtX]
 
 ## 参考 ##
 
@@ -47,4 +48,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.lengthOfLastWord]: problemSet/algorithm/lengthOfLastWord.md#lengthOfLastWord "最后一个单词的长度"
 [problemSet.algorithm.plusOne]: problemSet/algorithm/plusOne.md#plusOne "加一"
 [problemSet.algorithm.addBinary]: problemSet/algorithm/addBinary.md#addBinary "二进制求和"
+[problemSet.algorithm.sqrtX]: problemSet/algorithm/sqrtX.md#sqrtX "x 的平方根"
 <!-- 链接 结束 -->
