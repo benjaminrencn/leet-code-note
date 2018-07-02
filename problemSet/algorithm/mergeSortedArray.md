@@ -44,7 +44,7 @@ var merge = function(nums1, m, nums2, n) {
   <https://leetcode-cn.com/problems/merge-sorted-array/description/>
 * LeetCode problems merge-sorted-array  
   <https://leetcode.com/problems/merge-sorted-array/description/>
-* LeetCode problems merge-sorted-array Discuss 1 Line Solution - fabrizio3
+* LeetCode problems merge-sorted-array Discuss 1 Line Solution - fabrizio3  
   <https://leetcode.com/problems/merge-sorted-array/discuss/29505/1-Line-Solution>
 
 <!-- 链接 开始 -->
