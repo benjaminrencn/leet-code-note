@@ -33,6 +33,7 @@ LeetCode (中国) 笔记
 * 108\. <a id="problemSet.algorithm.convertSortedArrayToBinarySearchTree"></a>将有序数组转换为二叉搜索树&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.convertSortedArrayToBinarySearchTree]
 * 110\. <a id="problemSet.algorithm.balancedBinaryTree"></a>平衡二叉树&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.balancedBinaryTree]
 * 111\. <a id="problemSet.algorithm.minimumDepthOfBinaryTree"></a>二叉树的最小深度&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.minimumDepthOfBinaryTree]
+* 112\. <a id="problemSet.algorithm.pathSum"></a>路径总和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.pathSum]
 
 ## 参考 ##
 
@@ -69,4 +70,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.convertSortedArrayToBinarySearchTree]: problemSet/algorithm/convertSortedArrayToBinarySearchTree.md#convertSortedArrayToBinarySearchTree "将有序数组转换为二叉搜索树"
 [problemSet.algorithm.balancedBinaryTree]: problemSet/algorithm/balancedBinaryTree.md#balancedBinaryTree "平衡二叉树"
 [problemSet.algorithm.minimumDepthOfBinaryTree]: problemSet/algorithm/minimumDepthOfBinaryTree.md#minimumDepthOfBinaryTree "二叉树的最小深度"
+[problemSet.algorithm.pathSum]: problemSet/algorithm/pathSum.md#pathSum "路径总和"
 <!-- 链接 结束 -->
