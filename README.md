@@ -31,6 +31,7 @@ LeetCode (中国) 笔记
 * 104\. <a id="problemSet.algorithm.maximumDepthOfBinaryTree"></a>二叉树的最大深度&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.maximumDepthOfBinaryTree]
 * 107\. <a id="problemSet.algorithm.binaryTreeLevelOrderTraversalII"></a>二叉树的层次遍历 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryTreeLevelOrderTraversalII]
 * 108\. <a id="problemSet.algorithm.convertSortedArrayToBinarySearchTree"></a>将有序数组转换为二叉搜索树&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.convertSortedArrayToBinarySearchTree]
+* 110\. <a id="problemSet.algorithm.balancedBinaryTree"></a>平衡二叉树&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.balancedBinaryTree]
 
 ## 参考 ##
 
@@ -65,4 +66,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.maximumDepthOfBinaryTree]: problemSet/algorithm/maximumDepthOfBinaryTree.md#maximumDepthOfBinaryTree "二叉树的最大深度"
 [problemSet.algorithm.binaryTreeLevelOrderTraversalII]: problemSet/algorithm/binaryTreeLevelOrderTraversalII.md#binaryTreeLevelOrderTraversalII "二叉树的层次遍历 II"
 [problemSet.algorithm.convertSortedArrayToBinarySearchTree]: problemSet/algorithm/convertSortedArrayToBinarySearchTree.md#convertSortedArrayToBinarySearchTree "将有序数组转换为二叉搜索树"
+[problemSet.algorithm.balancedBinaryTree]: problemSet/algorithm/balancedBinaryTree.md#balancedBinaryTree "平衡二叉树"
 <!-- 链接 结束 -->

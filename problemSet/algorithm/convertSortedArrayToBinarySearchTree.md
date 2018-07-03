@@ -52,15 +52,13 @@ var sortedArrayToBST = function(nums) {
 };
 ```
 
-二分法
-
 ## 参考 ##
 
 * LeetCode (中国) 题库 算法 将有序数组转换为二叉搜索树  
   <https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/description/>
 * LeetCode problems convert-sorted-array-to-binary-search-tree  
   <https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/>
-* LeetCode problems convert-sorted-array-to-binary-search-tree Discuss 84ms js version - technicalcute
+* LeetCode problems convert-sorted-array-to-binary-search-tree Discuss 84ms js version - technicalcute  
   <https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/117440/84ms-js-version>
 
 <!-- 链接 开始 -->
