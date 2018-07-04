@@ -35,6 +35,7 @@ LeetCode (中国) 笔记
 * 111\. <a id="problemSet.algorithm.minimumDepthOfBinaryTree"></a>二叉树的最小深度&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.minimumDepthOfBinaryTree]
 * 112\. <a id="problemSet.algorithm.pathSum"></a>路径总和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.pathSum]
 * 118\. <a id="problemSet.algorithm.pascalsTriangle"></a>杨辉三角&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.pascalsTriangle]
+* 119\. <a id="problemSet.algorithm.pascalsTriangleII"></a>杨辉三角 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.pascalsTriangleII]
 
 ## 参考 ##
 
@@ -73,4 +74,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.minimumDepthOfBinaryTree]: problemSet/algorithm/minimumDepthOfBinaryTree.md#minimumDepthOfBinaryTree "二叉树的最小深度"
 [problemSet.algorithm.pathSum]: problemSet/algorithm/pathSum.md#pathSum "路径总和"
 [problemSet.algorithm.pascalsTriangle]: problemSet/algorithm/pascalsTriangle.md#pascalsTriangle "杨辉三角"
+[problemSet.algorithm.pascalsTriangleII]: problemSet/algorithm/pascalsTriangleII.md#pascalsTriangleII "杨辉三角 II"
 <!-- 链接 结束 -->
