@@ -93,11 +93,11 @@ var maxProfit = function(prices) {
 
 * LeetCode (中国) 题库 算法 买卖股票的最佳时机  
   <https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/>
-* LeetCode problems pascals-triangle-ii  
+* LeetCode problems best-time-to-buy-and-sell-stock  
   <https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/>
-* LeetCode articles pascals-triangle-ii  
+* LeetCode articles best-time-to-buy-and-sell-stock  
   <https://leetcode.com/articles/best-time-to-buy-and-sell-stock/>
-* LeetCode problems pascals-triangle-ii Discuss Kadane's Algorithm - Since no one has mentioned about this so far :) (In case if interviewer twists the input) - andyreadsall  
+* LeetCode problems best-time-to-buy-and-sell-stock Discuss Kadane's Algorithm - Since no one has mentioned about this so far :) (In case if interviewer twists the input) - andyreadsall  
   <https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/39038/Kadane's-Algorithm-Since-no-one-has-mentioned-about-this-so-far-:)-(In-case-if-interviewer-twists-the-input)>
 
 <!-- 链接 开始 -->
