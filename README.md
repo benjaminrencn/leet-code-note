@@ -38,6 +38,7 @@ LeetCode (中国) 笔记
 * 119\. <a id="problemSet.algorithm.pascalsTriangleII"></a>杨辉三角 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.pascalsTriangleII]
 * 121\. <a id="problemSet.algorithm.bestTimeToBuyAndSellStock"></a>买卖股票的最佳时机&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.bestTimeToBuyAndSellStock]
 * 122\. <a id="problemSet.algorithm.bestTimeToBuyAndSellStockII"></a>买卖股票的最佳时机 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.bestTimeToBuyAndSellStockII]
+* 122\. <a id="problemSet.algorithm.validPalindrome"></a>验证回文串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validPalindrome]
 
 ## 参考 ##
 
@@ -79,4 +80,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.pascalsTriangleII]: problemSet/algorithm/pascalsTriangleII.md#pascalsTriangleII "杨辉三角 II"
 [problemSet.algorithm.bestTimeToBuyAndSellStock]: problemSet/algorithm/bestTimeToBuyAndSellStock.md#bestTimeToBuyAndSellStock "买卖股票的最佳时机"
 [problemSet.algorithm.bestTimeToBuyAndSellStockII]: problemSet/algorithm/bestTimeToBuyAndSellStockII.md#bestTimeToBuyAndSellStockII "买卖股票的最佳时机 II"
+[problemSet.algorithm.validPalindrome]: problemSet/algorithm/validPalindrome.md#validPalindrome "验证回文串"
 <!-- 链接 结束 -->
