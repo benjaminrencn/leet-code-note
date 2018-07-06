@@ -1,4 +1,4 @@
-# <a id="sqrtX"></a>二进制求和&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.sqrtX] #
+# <a id="sqrtX"></a>x 的平方根&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.sqrtX] #
 
 ## 描述 ##
 
@@ -78,7 +78,7 @@ var mySqrt = function(x) {
 
 ## 参考 ##
 
-* LeetCode (中国) 题库 算法 二进制求和  
+* LeetCode (中国) 题库 算法 x 的平方根  
   <https://leetcode-cn.com/problems/sqrtx/description/>
 * LeetCode problems sqrtx  
   <https://leetcode.com/problems/sqrtx/description/>

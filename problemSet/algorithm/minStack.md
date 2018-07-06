@@ -63,7 +63,66 @@ MinStack.prototype.getMin = function() {
   return Math.min.apply(Math, this.value)
 };
 
-/** 
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * var obj = Object.create(MinStack).createNew()
+ * obj.push(x)
+ * obj.pop()
+ * var param_3 = obj.top()
+ * var param_4 = obj.getMin()
+ */
+```
+
+Array.push() Array.pop() 最小值栈
+
+`92ms` `90.14%`
+
+```javascript
+/**
+ * initialize your data structure here.
+ */
+var MinStack = function() {
+  this.value = [];
+  this.mins = [];
+};
+
+/**
+ * @param {number} x
+ * @return {void}
+ */
+MinStack.prototype.push = function(x) {
+  this.value.push(x);
+  let minsLength = this.mins.length;
+  if (minsLength === 0 || this.mins[minsLength - 1] >= x) {
+    this.mins.push(x);
+  }
+};
+
+/**
+ * @return {void}
+ */
+MinStack.prototype.pop = function() {
+  let element = this.value.pop();
+  if (element === this.mins[this.mins.length - 1]) {
+    this.mins.pop();
+  }
+};
+
+/**
+ * @return {number}
+ */
+MinStack.prototype.top = function() {
+  return this.value[this.value.length - 1];
+};
+
+/**
+ * @return {number}
+ */
+MinStack.prototype.getMin = function() {
+  return this.mins[this.mins.length - 1];
+};
+
+/**
  * Your MinStack object will be instantiated and called as such:
  * var obj = Object.create(MinStack).createNew()
  * obj.push(x)
