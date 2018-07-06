@@ -39,7 +39,9 @@ LeetCode (中国) 笔记
 * 121\. <a id="problemSet.algorithm.bestTimeToBuyAndSellStock"></a>买卖股票的最佳时机&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.bestTimeToBuyAndSellStock]
 * 122\. <a id="problemSet.algorithm.bestTimeToBuyAndSellStockII"></a>买卖股票的最佳时机 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.bestTimeToBuyAndSellStockII]
 * 125\. <a id="problemSet.algorithm.validPalindrome"></a>验证回文串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validPalindrome]
-* 125\. <a id="problemSet.algorithm.singleNumber"></a>只出现一次的数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.singleNumber]
+* 136\. <a id="problemSet.algorithm.singleNumber"></a>只出现一次的数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.singleNumber]
+* 141\. <a id="problemSet.algorithm.linkedListCycle"></a>环形链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.linkedListCycle] :x:
+* 155\. <a id="problemSet.algorithm.minStack"></a>最小栈&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.minStack]
 
 ## 参考 ##
 
@@ -83,4 +85,6 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.bestTimeToBuyAndSellStockII]: problemSet/algorithm/bestTimeToBuyAndSellStockII.md#bestTimeToBuyAndSellStockII "买卖股票的最佳时机 II"
 [problemSet.algorithm.validPalindrome]: problemSet/algorithm/validPalindrome.md#validPalindrome "验证回文串"
 [problemSet.algorithm.singleNumber]: problemSet/algorithm/singleNumber.md#singleNumber "只出现一次的数字"
+[problemSet.algorithm.linkedListCycle]: problemSet/algorithm/linkedListCycle.md#linkedListCycle "环形链表"
+[problemSet.algorithm.minStack]: problemSet/algorithm/minStack.md#minStack "最小栈"
 <!-- 链接 结束 -->
