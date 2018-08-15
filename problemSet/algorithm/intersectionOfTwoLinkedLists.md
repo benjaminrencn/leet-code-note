@@ -46,7 +46,6 @@ var getIntersectionNode = function(headA, headB) {
   }
   return null;
 };
-
 ```
 
 两次遍历

@@ -43,6 +43,7 @@ LeetCode (中国) 笔记
 * 141\. <a id="problemSet.algorithm.linkedListCycle"></a>环形链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.linkedListCycle] :x:
 * 155\. <a id="problemSet.algorithm.minStack"></a>最小栈&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.minStack]
 * 160\. <a id="problemSet.algorithm.intersectionOfTwoLinkedLists"></a>相交链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoLinkedLists]
+* 167\. <a id="problemSet.algorithm.twoSumIIInputArrayIsSorted"></a>两数之和 II - 输入有序数组&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.twoSumIIInputArrayIsSorted]
 
 ## 参考 ##
 
@@ -89,4 +90,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.linkedListCycle]: problemSet/algorithm/linkedListCycle.md#linkedListCycle "环形链表"
 [problemSet.algorithm.minStack]: problemSet/algorithm/minStack.md#minStack "最小栈"
 [problemSet.algorithm.intersectionOfTwoLinkedLists]: problemSet/algorithm/intersectionOfTwoLinkedLists.md#intersectionOfTwoLinkedLists "相交链表"
+[problemSet.algorithm.twoSumIIInputArrayIsSorted]: problemSet/algorithm/twoSumIIInputArrayIsSorted.md#twoSumIIInputArrayIsSorted "两数之和 II - 输入有序数组"
 <!-- 链接 结束 -->
