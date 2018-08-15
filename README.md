@@ -42,6 +42,7 @@ LeetCode (中国) 笔记
 * 136\. <a id="problemSet.algorithm.singleNumber"></a>只出现一次的数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.singleNumber]
 * 141\. <a id="problemSet.algorithm.linkedListCycle"></a>环形链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.linkedListCycle] :x:
 * 155\. <a id="problemSet.algorithm.minStack"></a>最小栈&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.minStack]
+* 160\. <a id="problemSet.algorithm.intersectionOfTwoLinkedLists"></a>相交链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoLinkedLists]
 
 ## 参考 ##
 
@@ -87,4 +88,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.singleNumber]: problemSet/algorithm/singleNumber.md#singleNumber "只出现一次的数字"
 [problemSet.algorithm.linkedListCycle]: problemSet/algorithm/linkedListCycle.md#linkedListCycle "环形链表"
 [problemSet.algorithm.minStack]: problemSet/algorithm/minStack.md#minStack "最小栈"
+[problemSet.algorithm.intersectionOfTwoLinkedLists]: problemSet/algorithm/intersectionOfTwoLinkedLists.md#intersectionOfTwoLinkedLists "相交链表"
 <!-- 链接 结束 -->
