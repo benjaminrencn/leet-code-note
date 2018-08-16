@@ -45,6 +45,7 @@ LeetCode (中国) 笔记
 * 160\. <a id="problemSet.algorithm.intersectionOfTwoLinkedLists"></a>相交链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoLinkedLists]
 * 167\. <a id="problemSet.algorithm.twoSumIIInputArrayIsSorted"></a>两数之和 II - 输入有序数组&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.twoSumIIInputArrayIsSorted]
 * 168\. <a id="problemSet.algorithm.excelSheetColumnTitle"></a>Excel表列名称&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.excelSheetColumnTitle]
+* 169\. <a id="problemSet.algorithm.majorityElement"></a>求众数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.majorityElement]
 
 ## 参考 ##
 
@@ -93,4 +94,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.intersectionOfTwoLinkedLists]: problemSet/algorithm/intersectionOfTwoLinkedLists.md#intersectionOfTwoLinkedLists "相交链表"
 [problemSet.algorithm.twoSumIIInputArrayIsSorted]: problemSet/algorithm/twoSumIIInputArrayIsSorted.md#twoSumIIInputArrayIsSorted "两数之和 II - 输入有序数组"
 [problemSet.algorithm.excelSheetColumnTitle]: problemSet/algorithm/excelSheetColumnTitle.md#excelSheetColumnTitle "Excel表列名称"
+[problemSet.algorithm.majorityElement]: problemSet/algorithm/majorityElement.md#majorityElement "求众数"
 <!-- 链接 结束 -->
