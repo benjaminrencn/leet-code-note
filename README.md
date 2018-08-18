@@ -49,6 +49,7 @@ LeetCode (中国) 笔记
 * 171\. <a id="problemSet.algorithm.excelSheetColumnNumber"></a>Excel表列序号&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.excelSheetColumnNumber]
 * 172\. <a id="problemSet.algorithm.factorialTrailingZeroes"></a>阶乘后的零&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.factorialTrailingZeroes]
 * 189\. <a id="problemSet.algorithm.rotateArray"></a>旋转数组&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.rotateArray]
+* 190\. <a id="problemSet.algorithm.reverseBits"></a>颠倒二进制位&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseBits]
 
 ## 参考 ##
 
@@ -101,4 +102,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.excelSheetColumnNumber]: problemSet/algorithm/excelSheetColumnNumber.md#excelSheetColumnNumber "Excel表列序号"
 [problemSet.algorithm.factorialTrailingZeroes]: problemSet/algorithm/factorialTrailingZeroes.md#factorialTrailingZeroes "阶乘后的零"
 [problemSet.algorithm.rotateArray]: problemSet/algorithm/rotateArray.md#rotateArray "旋转数组"
+[problemSet.algorithm.reverseBits]: problemSet/algorithm/reverseBits.md#reverseBits "颠倒二进制位"
 <!-- 链接 结束 -->
