@@ -50,6 +50,7 @@ LeetCode (中国) 笔记
 * 172\. <a id="problemSet.algorithm.factorialTrailingZeroes"></a>阶乘后的零&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.factorialTrailingZeroes]
 * 189\. <a id="problemSet.algorithm.rotateArray"></a>旋转数组&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.rotateArray]
 * 190\. <a id="problemSet.algorithm.reverseBits"></a>颠倒二进制位&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseBits]
+* 190\. <a id="problemSet.algorithm.numberOf1Bits"></a>位1的个数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.numberOf1Bits]
 
 ## 参考 ##
 
@@ -103,4 +104,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.factorialTrailingZeroes]: problemSet/algorithm/factorialTrailingZeroes.md#factorialTrailingZeroes "阶乘后的零"
 [problemSet.algorithm.rotateArray]: problemSet/algorithm/rotateArray.md#rotateArray "旋转数组"
 [problemSet.algorithm.reverseBits]: problemSet/algorithm/reverseBits.md#reverseBits "颠倒二进制位"
+[problemSet.algorithm.numberOf1Bits]: problemSet/algorithm/numberOf1Bits.md#numberOf1Bits "位1的个数"
 <!-- 链接 结束 -->
