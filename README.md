@@ -52,6 +52,7 @@ LeetCode (中国) 笔记
 * 190\. <a id="problemSet.algorithm.reverseBits"></a>颠倒二进制位&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseBits]
 * 191\. <a id="problemSet.algorithm.numberOf1Bits"></a>位1的个数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.numberOf1Bits]
 * 198\. <a id="problemSet.algorithm.houseRobber"></a>打家劫舍&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.houseRobber]
+* 202\. <a id="problemSet.algorithm.happyNumber"></a>快乐数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.happyNumber]
 
 ## 参考 ##
 
@@ -107,4 +108,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.reverseBits]: problemSet/algorithm/reverseBits.md#reverseBits "颠倒二进制位"
 [problemSet.algorithm.numberOf1Bits]: problemSet/algorithm/numberOf1Bits.md#numberOf1Bits "位1的个数"
 [problemSet.algorithm.houseRobber]: problemSet/algorithm/houseRobber.md#houseRobber "打家劫舍"
+[problemSet.algorithm.happyNumber]: problemSet/algorithm/happyNumber.md#happyNumber "快乐数"
 <!-- 链接 结束 -->
