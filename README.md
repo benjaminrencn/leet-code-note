@@ -55,6 +55,7 @@ LeetCode (中国) 笔记
 * 202\. <a id="problemSet.algorithm.happyNumber"></a>快乐数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.happyNumber]
 * 203\. <a id="problemSet.algorithm.removeLinkedListElements"></a>删除链表中的节点&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.removeLinkedListElements]
 * 204\. <a id="problemSet.algorithm.countPrimes"></a>计数质数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.countPrimes]
+* 204\. <a id="problemSet.algorithm.isomorphicStrings"></a>同构字符串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.isomorphicStrings]
 
 ## 参考 ##
 
@@ -113,4 +114,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.happyNumber]: problemSet/algorithm/happyNumber.md#happyNumber "快乐数"
 [problemSet.algorithm.removeLinkedListElements]: problemSet/algorithm/removeLinkedListElements.md#removeLinkedListElements "删除链表中的节点"
 [problemSet.algorithm.countPrimes]: problemSet/algorithm/countPrimes.md#countPrimes "计数质数"
+[problemSet.algorithm.isomorphicStrings]: problemSet/algorithm/isomorphicStrings.md#isomorphicStrings "同构字符串"
 <!-- 链接 结束 -->
