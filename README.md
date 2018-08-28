@@ -53,6 +53,7 @@ LeetCode (中国) 笔记
 * 191\. <a id="problemSet.algorithm.numberOf1Bits"></a>位1的个数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.numberOf1Bits]
 * 198\. <a id="problemSet.algorithm.houseRobber"></a>打家劫舍&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.houseRobber]
 * 202\. <a id="problemSet.algorithm.happyNumber"></a>快乐数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.happyNumber]
+* 203\. <a id="problemSet.algorithm.removeLinkedListElements"></a>删除链表中的节点&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.removeLinkedListElements]
 
 ## 参考 ##
 
@@ -109,4 +110,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.numberOf1Bits]: problemSet/algorithm/numberOf1Bits.md#numberOf1Bits "位1的个数"
 [problemSet.algorithm.houseRobber]: problemSet/algorithm/houseRobber.md#houseRobber "打家劫舍"
 [problemSet.algorithm.happyNumber]: problemSet/algorithm/happyNumber.md#happyNumber "快乐数"
+[problemSet.algorithm.removeLinkedListElements]: problemSet/algorithm/removeLinkedListElements.md#removeLinkedListElements "删除链表中的节点"
 <!-- 链接 结束 -->
