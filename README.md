@@ -57,6 +57,7 @@ LeetCode (中国) 笔记
 * 204\. <a id="problemSet.algorithm.countPrimes"></a>计数质数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.countPrimes]
 * 205\. <a id="problemSet.algorithm.isomorphicStrings"></a>同构字符串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.isomorphicStrings]
 * 206\. <a id="problemSet.algorithm.reverseLinkedList"></a>反转链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseLinkedList]
+* 217\. <a id="problemSet.algorithm.containsDuplicate"></a>存在重复元素&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.containsDuplicate]
 
 ## 参考 ##
 
@@ -117,4 +118,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.countPrimes]: problemSet/algorithm/countPrimes.md#countPrimes "计数质数"
 [problemSet.algorithm.isomorphicStrings]: problemSet/algorithm/isomorphicStrings.md#isomorphicStrings "同构字符串"
 [problemSet.algorithm.reverseLinkedList]: problemSet/algorithm/reverseLinkedList.md#reverseLinkedList "反转链表"
+[problemSet.algorithm.containsDuplicate]: problemSet/algorithm/containsDuplicate.md#containsDuplicate "存在重复元素"
 <!-- 链接 结束 -->
