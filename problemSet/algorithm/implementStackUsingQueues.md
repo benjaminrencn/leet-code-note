@@ -30,7 +30,7 @@ var MyStack = function() {
 };
 
 /**
- * Push element x onto stack. 
+ * Push element x onto stack.
  * @param {number} x
  * @return {void}
  */
