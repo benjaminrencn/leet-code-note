@@ -59,6 +59,7 @@ LeetCode (中国) 笔记
 * 206\. <a id="problemSet.algorithm.reverseLinkedList"></a>反转链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseLinkedList]
 * 217\. <a id="problemSet.algorithm.containsDuplicate"></a>存在重复元素&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.containsDuplicate]
 * 219\. <a id="problemSet.algorithm.containsDuplicateII"></a>存在重复元素 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.containsDuplicateII]
+* 225\. <a id="problemSet.algorithm.implementStackUsingQueues"></a>用队列实现栈&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.implementStackUsingQueues]
 
 ## 参考 ##
 
@@ -121,4 +122,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.reverseLinkedList]: problemSet/algorithm/reverseLinkedList.md#reverseLinkedList "反转链表"
 [problemSet.algorithm.containsDuplicate]: problemSet/algorithm/containsDuplicate.md#containsDuplicate "存在重复元素"
 [problemSet.algorithm.containsDuplicateII]: problemSet/algorithm/containsDuplicateII.md#containsDuplicateII "存在重复元素 II"
+[problemSet.algorithm.implementStackUsingQueues]: problemSet/algorithm/implementStackUsingQueues.md#implementStackUsingQueues "用队列实现栈"
 <!-- 链接 结束 -->
