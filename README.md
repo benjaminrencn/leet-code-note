@@ -65,6 +65,7 @@ LeetCode (中国) 笔记
 * 232\. <a id="problemSet.algorithm.implementQueueUsingStacks"></a>用栈实现队列&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.implementQueueUsingStacks]
 * 234\. <a id="problemSet.algorithm.palindromeLinkedList"></a>回文链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.palindromeLinkedList]
 * 235\. <a id="problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree"></a>二叉搜索树的最近公共祖先&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree]
+* 237\. <a id="problemSet.algorithm.deleteNodeInALinkedList"></a>删除链表中的节点&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.deleteNodeInALinkedList]
 
 ## 参考 ##
 
@@ -133,4 +134,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.implementQueueUsingStacks]: problemSet/algorithm/implementQueueUsingStacks.md#implementQueueUsingStacks "用栈实现队列"
 [problemSet.algorithm.palindromeLinkedList]: problemSet/algorithm/palindromeLinkedList.md#palindromeLinkedList "用栈实现队列"
 [problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree]: problemSet/algorithm/lowestCommonAncestorOfABinarySearchTree.md#lowestCommonAncestorOfABinarySearchTree "二叉搜索树的最近公共祖先"
+[problemSet.algorithm.deleteNodeInALinkedList]: problemSet/algorithm/deleteNodeInALinkedList.md#deleteNodeInALinkedList "删除链表中的节点"
 <!-- 链接 结束 -->
