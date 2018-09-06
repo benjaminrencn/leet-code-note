@@ -62,6 +62,7 @@ LeetCode (中国) 笔记
 * 225\. <a id="problemSet.algorithm.implementStackUsingQueues"></a>用队列实现栈&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.implementStackUsingQueues]
 * 226\. <a id="problemSet.algorithm.invertBinaryTree"></a>翻转二叉树&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.invertBinaryTree]
 * 231\. <a id="problemSet.algorithm.powerOfTwo"></a>2的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfTwo]
+* 232\. <a id="problemSet.algorithm.implementQueueUsingStacks"></a>用栈实现队列&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.implementQueueUsingStacks]
 
 ## 参考 ##
 
@@ -127,4 +128,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.implementStackUsingQueues]: problemSet/algorithm/implementStackUsingQueues.md#implementStackUsingQueues "用队列实现栈"
 [problemSet.algorithm.invertBinaryTree]: problemSet/algorithm/invertBinaryTree.md#invertBinaryTree "翻转二叉树"
 [problemSet.algorithm.powerOfTwo]: problemSet/algorithm/powerOfTwo.md#powerOfTwo "2的幂"
+[problemSet.algorithm.implementQueueUsingStacks]: problemSet/algorithm/implementQueueUsingStacks.md#implementQueueUsingStacks "用栈实现队列"
 <!-- 链接 结束 -->
