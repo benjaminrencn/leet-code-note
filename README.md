@@ -64,6 +64,7 @@ LeetCode (中国) 笔记
 * 231\. <a id="problemSet.algorithm.powerOfTwo"></a>2的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfTwo]
 * 232\. <a id="problemSet.algorithm.implementQueueUsingStacks"></a>用栈实现队列&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.implementQueueUsingStacks]
 * 234\. <a id="problemSet.algorithm.palindromeLinkedList"></a>回文链表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.palindromeLinkedList]
+* 235\. <a id="problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree"></a>二叉搜索树的最近公共祖先&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree]
 
 ## 参考 ##
 
@@ -131,4 +132,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.powerOfTwo]: problemSet/algorithm/powerOfTwo.md#powerOfTwo "2的幂"
 [problemSet.algorithm.implementQueueUsingStacks]: problemSet/algorithm/implementQueueUsingStacks.md#implementQueueUsingStacks "用栈实现队列"
 [problemSet.algorithm.palindromeLinkedList]: problemSet/algorithm/palindromeLinkedList.md#palindromeLinkedList "用栈实现队列"
+[problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree]: problemSet/algorithm/lowestCommonAncestorOfABinarySearchTree.md#lowestCommonAncestorOfABinarySearchTree "二叉搜索树的最近公共祖先"
 <!-- 链接 结束 -->
