@@ -67,6 +67,7 @@ LeetCode (中国) 笔记
 * 235\. <a id="problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree"></a>二叉搜索树的最近公共祖先&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree]
 * 237\. <a id="problemSet.algorithm.deleteNodeInALinkedList"></a>删除链表中的节点&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.deleteNodeInALinkedList]
 * 242\. <a id="problemSet.algorithm.validAnagram"></a>有效的字母异位词&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validAnagram]
+* 257\. <a id="problemSet.algorithm.binaryTreePaths"></a>二叉树的所有路径&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryTreePaths]
 
 ## 参考 ##
 
@@ -137,4 +138,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.lowestCommonAncestorOfABinarySearchTree]: problemSet/algorithm/lowestCommonAncestorOfABinarySearchTree.md#lowestCommonAncestorOfABinarySearchTree "二叉搜索树的最近公共祖先"
 [problemSet.algorithm.deleteNodeInALinkedList]: problemSet/algorithm/deleteNodeInALinkedList.md#deleteNodeInALinkedList "删除链表中的节点"
 [problemSet.algorithm.validAnagram]: problemSet/algorithm/validAnagram.md#validAnagram "有效的字母异位词"
+[problemSet.algorithm.binaryTreePaths]: problemSet/algorithm/binaryTreePaths.md#binaryTreePaths "二叉树的所有路径"
 <!-- 链接 结束 -->
