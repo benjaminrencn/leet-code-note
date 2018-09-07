@@ -68,7 +68,8 @@ LeetCode (中国) 笔记
 * 237\. <a id="problemSet.algorithm.deleteNodeInALinkedList"></a>删除链表中的节点&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.deleteNodeInALinkedList]
 * 242\. <a id="problemSet.algorithm.validAnagram"></a>有效的字母异位词&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validAnagram]
 * 257\. <a id="problemSet.algorithm.binaryTreePaths"></a>二叉树的所有路径&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryTreePaths]
-* 258\. <a id="problemSet.algorithm.add-digits"></a>各位相加&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.add-digits]
+* 258\. <a id="problemSet.algorithm.addDigits"></a>各位相加&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.addDigits]
+* 263\. <a id="problemSet.algorithm.uglyNumber"></a>丑数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.uglyNumber]
 
 ## 参考 ##
 
@@ -140,5 +141,6 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.deleteNodeInALinkedList]: problemSet/algorithm/deleteNodeInALinkedList.md#deleteNodeInALinkedList "删除链表中的节点"
 [problemSet.algorithm.validAnagram]: problemSet/algorithm/validAnagram.md#validAnagram "有效的字母异位词"
 [problemSet.algorithm.binaryTreePaths]: problemSet/algorithm/binaryTreePaths.md#binaryTreePaths "二叉树的所有路径"
-[problemSet.algorithm.add-digits]: problemSet/algorithm/add-digits.md#add-digits "各位相加"
+[problemSet.algorithm.addDigits]: problemSet/algorithm/addDigits.md#addDigits "各位相加"
+[problemSet.algorithm.uglyNumber]: problemSet/algorithm/uglyNumber.md#uglyNumber "丑数"
 <!-- 链接 结束 -->
