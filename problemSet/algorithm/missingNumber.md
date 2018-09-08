@@ -66,7 +66,7 @@ var missingNumber = function(nums) {
   <https://leetcode-cn.com/problems/missing-number/description/>
 * LeetCode problems missing-number  
   <https://leetcode.com/problems/missing-number/description/>
-* LeetCode problems missing-number 执行范例
+* LeetCode problems missing-number 范例
   <https://leetcode-cn.com/submissions/detail/6689530/>
 
 <!-- 链接 开始 -->

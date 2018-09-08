@@ -62,12 +62,53 @@ var solution = function(isBadVersion) {
 };
 ```
 
+二分法
+
+`72ms` `66.72%`
+
+```javascript
+/**
+ * Definition for isBadVersion()
+ * 
+ * @param {integer} version number
+ * @return {boolean} whether the version is bad
+ * isBadVersion = function(version) {
+ *     ...
+ * };
+ */
+
+/**
+ * @param {function} isBadVersion()
+ * @return {function}
+ */
+var solution = function(isBadVersion) {
+  /**
+   * @param {integer} n Total versions
+   * @return {integer} The first bad version
+   */
+  return function(n) {
+    let left = 1, middle = 1, right = n;
+    while (left <= right) {
+      middle = Math.floor((left + right) / 2);
+      if (isBadVersion(middle) == true) {
+        right = middle - 1;
+      } else {
+        left = middle + 1;
+      }
+    }
+    return left;
+  };
+};
+```
+
 ## 参考 ##
 
 * LeetCode (中国) 题库 算法 第一个错误的版本  
   <https://leetcode-cn.com/problems/first-bad-version/description/>
 * LeetCode problems first-bad-version  
   <https://leetcode.com/problems/first-bad-version/description/>
+* LeetCode problems first-bad-version 范例  
+  <https://leetcode-cn.com/submissions/detail/6747571/>
 
 <!-- 链接 开始 -->
 [readme.problemSet.algorithm.firstBadVersion]: ../../README.md#problemSet.algorithm.firstBadVersion "README"
