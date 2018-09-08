@@ -71,7 +71,7 @@ LeetCode (中国) 笔记
 * 258\. <a id="problemSet.algorithm.addDigits"></a>各位相加&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.addDigits]
 * 263\. <a id="problemSet.algorithm.uglyNumber"></a>丑数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.uglyNumber]
 * 268\. <a id="problemSet.algorithm.missingNumber"></a>缺失数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.missingNumber]
-* 268\. <a id="problemSet.algorithm.firstBadVersion"></a>第一个错误的版本&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstBadVersion]
+* 278\. <a id="problemSet.algorithm.firstBadVersion"></a>第一个错误的版本&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstBadVersion]
 
 ## 参考 ##
 
