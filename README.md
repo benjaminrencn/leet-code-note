@@ -70,6 +70,7 @@ LeetCode (中国) 笔记
 * 257\. <a id="problemSet.algorithm.binaryTreePaths"></a>二叉树的所有路径&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryTreePaths]
 * 258\. <a id="problemSet.algorithm.addDigits"></a>各位相加&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.addDigits]
 * 263\. <a id="problemSet.algorithm.uglyNumber"></a>丑数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.uglyNumber]
+* 268\. <a id="problemSet.algorithm.missingNumber"></a>缺失数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.missingNumber]
 
 ## 参考 ##
 
@@ -143,4 +144,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.binaryTreePaths]: problemSet/algorithm/binaryTreePaths.md#binaryTreePaths "二叉树的所有路径"
 [problemSet.algorithm.addDigits]: problemSet/algorithm/addDigits.md#addDigits "各位相加"
 [problemSet.algorithm.uglyNumber]: problemSet/algorithm/uglyNumber.md#uglyNumber "丑数"
+[problemSet.algorithm.missingNumber]: problemSet/algorithm/missingNumber.md#missingNumber "缺失数字"
 <!-- 链接 结束 -->
