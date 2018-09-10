@@ -38,12 +38,36 @@ var moveZeroes = function(nums) {
 };
 ```
 
+双指针法
+
+`108ms` `31.19%`
+
+```javascript
+/**
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
+ */
+var moveZeroes = function(nums) {
+  let i = 0, j = 0;
+  for (i = 0; i < nums.length; i ++) {
+    if (nums[i] !== 0) {
+      nums[j ++] = nums[i];
+    }
+  }
+  while (j < nums.length) {
+    nums[j ++] = 0;
+  }
+};
+```
+
 ## 参考 ##
 
 * LeetCode (中国) 题库 算法 移动零  
   <https://leetcode-cn.com/problems/move-zeroes/description/>
 * LeetCode problems move-zeroes  
   <https://leetcode.com/problems/move-zeroes/description/>
+* LeetCode problems move-zeroes Discuss Java solution two pointers - AnShafs
+  <https://leetcode.com/problems/move-zeroes/discuss/167932/Java-solution-two-pointers>
 
 <!-- 链接 开始 -->
 [readme.problemSet.algorithm.moveZeroes]: ../../README.md#problemSet.algorithm.moveZeroes "README"

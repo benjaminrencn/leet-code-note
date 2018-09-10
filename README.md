@@ -73,6 +73,7 @@ LeetCode (中国) 笔记
 * 268\. <a id="problemSet.algorithm.missingNumber"></a>缺失数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.missingNumber]
 * 278\. <a id="problemSet.algorithm.firstBadVersion"></a>第一个错误的版本&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstBadVersion]
 * 283\. <a id="problemSet.algorithm.moveZeroes"></a>移动零&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.moveZeroes]
+* 290\. <a id="problemSet.algorithm.wordPattern"></a>单词模式&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.wordPattern]
 
 ## 参考 ##
 
@@ -149,4 +150,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.missingNumber]: problemSet/algorithm/missingNumber.md#missingNumber "缺失数字"
 [problemSet.algorithm.firstBadVersion]: problemSet/algorithm/firstBadVersion.md#firstBadVersion "第一个错误的版本"
 [problemSet.algorithm.moveZeroes]: problemSet/algorithm/moveZeroes.md#moveZeroes "移动零"
+[problemSet.algorithm.wordPattern]: problemSet/algorithm/wordPattern.md#wordPattern "单词模式"
 <!-- 链接 结束 -->
