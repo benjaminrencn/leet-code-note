@@ -56,9 +56,9 @@ NumArray.prototype.sumRange = function(i, j) {
 ## 参考 ##
 
 * LeetCode (中国) 题库 算法 区域和检索 - 数组不可变  
-  <https://leetcode-cn.com/problems/nim-game/description/>
-* LeetCode problems nim-game  
-  <https://leetcode.com/problems/nim-game/description/>
+  <https://leetcode-cn.com/problems/range-sum-query-immutable/description/>
+* LeetCode problems range-sum-query-immutable  
+  <https://leetcode.com/problems/range-sum-query-immutable/description/>
 * LeetCode（303）Range Sum Query - Immutable - 逆風的薔薇
   <https://blog.csdn.net/fly_yr/article/details/50173755>
 
