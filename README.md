@@ -79,6 +79,7 @@ LeetCode (中国) 笔记
 * 326\. <a id="problemSet.algorithm.powerOfThree"></a>3的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfThree]
 * 342\. <a id="problemSet.algorithm.powerOfFour"></a>4的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfFour]
 * 344\. <a id="problemSet.algorithm.reverseString"></a>反转字符串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseString]
+* 345\. <a id="problemSet.algorithm.reverseVowelsOfAString"></a>反转字符串中的元音字母&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseVowelsOfAString]
 
 ## 参考 ##
 
@@ -161,4 +162,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.powerOfThree]: problemSet/algorithm/powerOfThree.md#powerOfThree "3的幂"
 [problemSet.algorithm.powerOfFour]: problemSet/algorithm/powerOfFour.md#powerOfFour "4的幂"
 [problemSet.algorithm.reverseString]: problemSet/algorithm/reverseString.md#reverseString "反转字符串"
+[problemSet.algorithm.reverseVowelsOfAString]: problemSet/algorithm/reverseVowelsOfAString.md#reverseVowelsOfAString "反转字符串中的元音字母"
 <!-- 链接 结束 -->
