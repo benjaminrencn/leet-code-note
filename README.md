@@ -77,6 +77,7 @@ LeetCode (中国) 笔记
 * 292\. <a id="problemSet.algorithm.nimGame"></a>Nim游戏&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.nimGame]
 * 303\. <a id="problemSet.algorithm.rangeSumQuery-Immutable"></a>区域和检索 - 数组不可变&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.rangeSumQuery-Immutable]
 * 326\. <a id="problemSet.algorithm.powerOfThree"></a>3的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfThree]
+* 342\. <a id="problemSet.algorithm.powerOfFour"></a>4的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfFour]
 
 ## 参考 ##
 
@@ -157,4 +158,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.nimGame]: problemSet/algorithm/nimGame.md#nimGame "Nim游戏"
 [problemSet.algorithm.rangeSumQuery-Immutable]: problemSet/algorithm/rangeSumQuery-Immutable.md#rangeSumQuery-Immutable "区域和检索 - 数组不可变"
 [problemSet.algorithm.powerOfThree]: problemSet/algorithm/powerOfThree.md#powerOfThree "3的幂"
+[problemSet.algorithm.powerOfFour]: problemSet/algorithm/powerOfFour.md#powerOfFour "4的幂"
 <!-- 链接 结束 -->

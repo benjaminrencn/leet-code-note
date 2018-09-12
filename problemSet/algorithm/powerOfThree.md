@@ -1,4 +1,4 @@
-# <a id="powerOfThree-Immutable"></a>3的幂&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.powerOfThree-Immutable] #
+# <a id="powerOfThree"></a>3的幂&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.powerOfThree] #
 
 ## 描述 ##
 
@@ -83,5 +83,5 @@ var isPowerOfThree = function(n) {
   <https://leetcode.com/problems/power-of-three/description/>
 
 <!-- 链接 开始 -->
-[readme.problemSet.algorithm.powerOfThree-Immutable]: ../../README.md#problemSet.algorithm.powerOfThree-Immutable "README"
+[readme.problemSet.algorithm.powerOfThree]: ../../README.md#problemSet.algorithm.powerOfThree "README"
 <!-- 链接 结束 -->
