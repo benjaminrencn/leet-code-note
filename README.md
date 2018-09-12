@@ -75,6 +75,7 @@ LeetCode (中国) 笔记
 * 283\. <a id="problemSet.algorithm.moveZeroes"></a>移动零&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.moveZeroes]
 * 290\. <a id="problemSet.algorithm.wordPattern"></a>单词模式&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.wordPattern]
 * 292\. <a id="problemSet.algorithm.nimGame"></a>Nim游戏&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.nimGame]
+* 303\. <a id="problemSet.algorithm.rangeSumQuery-Immutable"></a>区域和检索 - 数组不可变&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.rangeSumQuery-Immutable]
 
 ## 参考 ##
 
@@ -153,4 +154,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.moveZeroes]: problemSet/algorithm/moveZeroes.md#moveZeroes "移动零"
 [problemSet.algorithm.wordPattern]: problemSet/algorithm/wordPattern.md#wordPattern "单词模式"
 [problemSet.algorithm.nimGame]: problemSet/algorithm/nimGame.md#nimGame "Nim游戏"
+[problemSet.algorithm.rangeSumQuery-Immutable]: problemSet/algorithm/rangeSumQuery-Immutable.md#rangeSumQuery-Immutable "区域和检索 - 数组不可变"
 <!-- 链接 结束 -->
