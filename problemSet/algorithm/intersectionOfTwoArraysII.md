@@ -1,4 +1,4 @@
-# <a id="intersectionOfTwoArraysII"></a>两个数组的交集&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.intersectionOfTwoArraysII] #
+# <a id="intersectionOfTwoArraysII"></a>两个数组的交集 II&nbsp;&nbsp;[:point_left:][readme.problemSet.algorithm.intersectionOfTwoArraysII] #
 
 ## 描述 ##
 
@@ -67,7 +67,7 @@ var intersect = function(nums1, nums2) {
 
 ## 参考 ##
 
-* LeetCode (中国) 题库 算法 两个数组的交集  
+* LeetCode (中国) 题库 算法 两个数组的交集 II  
   <https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/>
 * LeetCode problems intersection-of-two-arrays-ii  
   <https://leetcode.com/problems/intersection-of-two-arrays-ii/description/>
