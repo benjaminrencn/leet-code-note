@@ -80,6 +80,7 @@ LeetCode (中国) 笔记
 * 342\. <a id="problemSet.algorithm.powerOfFour"></a>4的幂&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.powerOfFour]
 * 344\. <a id="problemSet.algorithm.reverseString"></a>反转字符串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseString]
 * 345\. <a id="problemSet.algorithm.reverseVowelsOfAString"></a>反转字符串中的元音字母&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.reverseVowelsOfAString]
+* 349\. <a id="problemSet.algorithm.intersectionOfTwoArrays"></a>两个数组的交集&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoArrays]
 
 ## 参考 ##
 
@@ -163,4 +164,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.powerOfFour]: problemSet/algorithm/powerOfFour.md#powerOfFour "4的幂"
 [problemSet.algorithm.reverseString]: problemSet/algorithm/reverseString.md#reverseString "反转字符串"
 [problemSet.algorithm.reverseVowelsOfAString]: problemSet/algorithm/reverseVowelsOfAString.md#reverseVowelsOfAString "反转字符串中的元音字母"
+[problemSet.algorithm.intersectionOfTwoArrays]: problemSet/algorithm/intersectionOfTwoArrays.md#intersectionOfTwoArrays "两个数组的交集"
 <!-- 链接 结束 -->
