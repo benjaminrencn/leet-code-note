@@ -83,6 +83,7 @@ LeetCode (中国) 笔记
 * 349\. <a id="problemSet.algorithm.intersectionOfTwoArrays"></a>两个数组的交集&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoArrays]
 * 350\. <a id="problemSet.algorithm.intersectionOfTwoArraysII"></a>两个数组的交集 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoArraysII]
 * 367\. <a id="problemSet.algorithm.validPerfectSquare"></a>有效的完全平方数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validPerfectSquare]
+* 371\. <a id="problemSet.algorithm.sumOfTwoIntegers"></a>两整数之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sumOfTwoIntegers]
 
 ## 参考 ##
 
@@ -169,4 +170,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.intersectionOfTwoArrays]: problemSet/algorithm/intersectionOfTwoArrays.md#intersectionOfTwoArrays "两个数组的交集"
 [problemSet.algorithm.intersectionOfTwoArraysII]: problemSet/algorithm/intersectionOfTwoArraysII.md#intersectionOfTwoArraysII "两个数组的交集 II"
 [problemSet.algorithm.validPerfectSquare]: problemSet/algorithm/validPerfectSquare.md#validPerfectSquare "有效的完全平方数"
+[problemSet.algorithm.sumOfTwoIntegers]: problemSet/algorithm/sumOfTwoIntegers.md#sumOfTwoIntegers "两整数之和"
 <!-- 链接 结束 -->

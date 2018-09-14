@@ -44,7 +44,7 @@ var getRow = function(rowIndex) {
 * LeetCode problems pascals-triangle-ii  
   <https://leetcode.com/problems/pascals-triangle-ii/description/>
 * LeetCode problems pascals-triangle-ii Discuss Here is my brief O(k) solution - LongsPeak  
-  <https://leetcode.com/problems/pascals-triangle-ii/description/>
+  <https://leetcode.com/problems/pascals-triangle-ii/discuss/38420/Here-is-my-brief-O(k)-solution>
 
 <!-- 链接 开始 -->
 [readme.problemSet.algorithm.pascalsTriangleII]: ../../README.md#problemSet.algorithm.pascalsTriangleII "README"

@@ -45,7 +45,7 @@ var addBinary = function(a, b) {
 * LeetCode (中国) 题库 算法 二进制求和  
   <https://leetcode-cn.com/problems/add-binary/description/>
 * LeetCode problems add-binary  
-  <https://leetcode.com/problems/add-binary/discuss/>
+  <https://leetcode.com/problems/add-binary/description/>
 
 <!-- 链接 开始 -->
 [readme.problemSet.algorithm.addBinary]: ../../README.md#problemSet.algorithm.addBinary "README"

@@ -75,7 +75,7 @@ var rob = function(nums) {
   <https://leetcode-cn.com/problems/house-robber/description/>
 * LeetCode problems house-robber  
   <https://leetcode.com/problems/house-robber/description/>
-* LeetCode problems house-robber Discuss Java O(n) solution, space O(1) - tusizi
+* LeetCode problems house-robber Discuss Java O(n) solution, space O(1) - tusizi  
   <https://leetcode.com/problems/house-robber/discuss/55681/Java-O(n)-solution-space-O(1)>
 
 <!-- 链接 开始 -->
