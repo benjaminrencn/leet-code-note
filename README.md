@@ -84,6 +84,7 @@ LeetCode (中国) 笔记
 * 350\. <a id="problemSet.algorithm.intersectionOfTwoArraysII"></a>两个数组的交集 II&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.intersectionOfTwoArraysII]
 * 367\. <a id="problemSet.algorithm.validPerfectSquare"></a>有效的完全平方数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validPerfectSquare]
 * 371\. <a id="problemSet.algorithm.sumOfTwoIntegers"></a>两整数之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sumOfTwoIntegers]
+* 383\. <a id="problemSet.algorithm.ransomNote"></a>赎金信&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.ransomNote]
 
 ## 参考 ##
 
@@ -171,4 +172,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.intersectionOfTwoArraysII]: problemSet/algorithm/intersectionOfTwoArraysII.md#intersectionOfTwoArraysII "两个数组的交集 II"
 [problemSet.algorithm.validPerfectSquare]: problemSet/algorithm/validPerfectSquare.md#validPerfectSquare "有效的完全平方数"
 [problemSet.algorithm.sumOfTwoIntegers]: problemSet/algorithm/sumOfTwoIntegers.md#sumOfTwoIntegers "两整数之和"
+[problemSet.algorithm.ransomNote]: problemSet/algorithm/ransomNote.md#ransomNote "赎金信"
 <!-- 链接 结束 -->

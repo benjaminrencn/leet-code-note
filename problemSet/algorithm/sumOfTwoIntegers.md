@@ -49,7 +49,6 @@ var getSum = function(a, b) {
 * LeetCode problems sum-of-two-integers Discuss Java simple easy understand solution with explanation - zhaolz  
   <https://leetcode.com/problems/sum-of-two-integers/discuss/84290/Java-simple-easy-understand-solution-with-explanation>
 
-
 <!-- 链接 开始 -->
 [readme.problemSet.algorithm.sumOfTwoIntegers]: ../../README.md#problemSet.algorithm.sumOfTwoIntegers "README"
 <!-- 链接 结束 -->
