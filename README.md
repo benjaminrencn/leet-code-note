@@ -85,6 +85,7 @@ LeetCode (中国) 笔记
 * 367\. <a id="problemSet.algorithm.validPerfectSquare"></a>有效的完全平方数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.validPerfectSquare]
 * 371\. <a id="problemSet.algorithm.sumOfTwoIntegers"></a>两整数之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sumOfTwoIntegers]
 * 383\. <a id="problemSet.algorithm.ransomNote"></a>赎金信&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.ransomNote]
+* 387\. <a id="problemSet.algorithm.firstUniqueCharacterInAString"></a>字符串中的第一个唯一字符&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstUniqueCharacterInAString]
 
 ## 参考 ##
 
@@ -173,4 +174,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.validPerfectSquare]: problemSet/algorithm/validPerfectSquare.md#validPerfectSquare "有效的完全平方数"
 [problemSet.algorithm.sumOfTwoIntegers]: problemSet/algorithm/sumOfTwoIntegers.md#sumOfTwoIntegers "两整数之和"
 [problemSet.algorithm.ransomNote]: problemSet/algorithm/ransomNote.md#ransomNote "赎金信"
+[problemSet.algorithm.firstUniqueCharacterInAString]: problemSet/algorithm/firstUniqueCharacterInAString.md#firstUniqueCharacterInAString "字符串中的第一个唯一字符"
 <!-- 链接 结束 -->
