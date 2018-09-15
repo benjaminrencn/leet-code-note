@@ -86,6 +86,7 @@ LeetCode (中国) 笔记
 * 371\. <a id="problemSet.algorithm.sumOfTwoIntegers"></a>两整数之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sumOfTwoIntegers]
 * 383\. <a id="problemSet.algorithm.ransomNote"></a>赎金信&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.ransomNote]
 * 387\. <a id="problemSet.algorithm.firstUniqueCharacterInAString"></a>字符串中的第一个唯一字符&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstUniqueCharacterInAString]
+* 389\. <a id="problemSet.algorithm.findTheDifference"></a>找不同&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.findTheDifference]
 
 ## 参考 ##
 
@@ -175,4 +176,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.sumOfTwoIntegers]: problemSet/algorithm/sumOfTwoIntegers.md#sumOfTwoIntegers "两整数之和"
 [problemSet.algorithm.ransomNote]: problemSet/algorithm/ransomNote.md#ransomNote "赎金信"
 [problemSet.algorithm.firstUniqueCharacterInAString]: problemSet/algorithm/firstUniqueCharacterInAString.md#firstUniqueCharacterInAString "字符串中的第一个唯一字符"
+[problemSet.algorithm.findTheDifference]: problemSet/algorithm/findTheDifference.md#findTheDifference "找不同"
 <!-- 链接 结束 -->
