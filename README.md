@@ -87,6 +87,7 @@ LeetCode (中国) 笔记
 * 383\. <a id="problemSet.algorithm.ransomNote"></a>赎金信&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.ransomNote]
 * 387\. <a id="problemSet.algorithm.firstUniqueCharacterInAString"></a>字符串中的第一个唯一字符&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstUniqueCharacterInAString]
 * 389\. <a id="problemSet.algorithm.findTheDifference"></a>找不同&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.findTheDifference]
+* 400\. <a id="problemSet.algorithm.nthDigit"></a>第N个数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.nthDigit]
 
 ## 参考 ##
 
@@ -177,4 +178,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.ransomNote]: problemSet/algorithm/ransomNote.md#ransomNote "赎金信"
 [problemSet.algorithm.firstUniqueCharacterInAString]: problemSet/algorithm/firstUniqueCharacterInAString.md#firstUniqueCharacterInAString "字符串中的第一个唯一字符"
 [problemSet.algorithm.findTheDifference]: problemSet/algorithm/findTheDifference.md#findTheDifference "找不同"
+[problemSet.algorithm.nthDigit]: problemSet/algorithm/nthDigit.md#nthDigit "第N个数字"
 <!-- 链接 结束 -->
