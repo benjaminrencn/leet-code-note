@@ -88,7 +88,8 @@ LeetCode (中国) 笔记
 * 387\. <a id="problemSet.algorithm.firstUniqueCharacterInAString"></a>字符串中的第一个唯一字符&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.firstUniqueCharacterInAString]
 * 389\. <a id="problemSet.algorithm.findTheDifference"></a>找不同&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.findTheDifference]
 * 400\. <a id="problemSet.algorithm.nthDigit"></a>第N个数字&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.nthDigit]
-* 401\. <a id="problemSet.algorithm.binaryWatch"></a>二进制手表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryWatch] :x:
+* 401\. <a id="problemSet.algorithm.binaryWatch"></a>二进制手表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryWatch]
+* 404\. <a id="problemSet.algorithm.sumOfLeftLeaves"></a>左叶子之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sumOfLeftLeaves]
 
 ## 参考 ##
 
@@ -181,4 +182,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.findTheDifference]: problemSet/algorithm/findTheDifference.md#findTheDifference "找不同"
 [problemSet.algorithm.nthDigit]: problemSet/algorithm/nthDigit.md#nthDigit "第N个数字"
 [problemSet.algorithm.binaryWatch]: problemSet/algorithm/binaryWatch.md#binaryWatch "二进制手表"
+[problemSet.algorithm.sumOfLeftLeaves]: problemSet/algorithm/sumOfLeftLeaves.md#sumOfLeftLeaves "左叶子之和"
 <!-- 链接 结束 -->
