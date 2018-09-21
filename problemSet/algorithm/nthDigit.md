@@ -30,11 +30,26 @@ n 是正数且在32为整形范围内 ( n < 231)。
 
 ## 解答 ##
 
+迭代法
 
-
-`ms` `%`
+`76ms` `44.44%`
 
 ```javascript
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var findNthDigit = function(n) {
+  let i = 1, base = 9 * Math.pow(10, i - 1) * i, digit = 0;
+
+  while (n > base) {
+    n -= base;
+    i ++;
+    base = 9 * Math.pow(10, i - 1) * i;
+  }
+  digit = Math.pow(10, i - 1) + Math.floor((n - 1) / i);
+  return +String(digit)[(n - 1) % i];
+};
 ```
 
 ## 参考 ##
