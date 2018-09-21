@@ -91,6 +91,7 @@ LeetCode (中国) 笔记
 * 401\. <a id="problemSet.algorithm.binaryWatch"></a>二进制手表&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.binaryWatch]
 * 404\. <a id="problemSet.algorithm.sumOfLeftLeaves"></a>左叶子之和&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.sumOfLeftLeaves]
 * 405\. <a id="problemSet.algorithm.convertANumberToHexadecimal"></a>数字转换为十六进制数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.convertANumberToHexadecimal]
+* 409\. <a id="problemSet.algorithm.longestPalindrome"></a>最长回文串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.longestPalindrome]
 
 ## 参考 ##
 
@@ -185,4 +186,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.binaryWatch]: problemSet/algorithm/binaryWatch.md#binaryWatch "二进制手表"
 [problemSet.algorithm.sumOfLeftLeaves]: problemSet/algorithm/sumOfLeftLeaves.md#sumOfLeftLeaves "左叶子之和"
 [problemSet.algorithm.convertANumberToHexadecimal]: problemSet/algorithm/convertANumberToHexadecimal.md#convertANumberToHexadecimal "数字转换为十六进制数"
+[problemSet.algorithm.longestPalindrome]: problemSet/algorithm/longestPalindrome.md#longestPalindrome "最长回文串"
 <!-- 链接 结束 -->

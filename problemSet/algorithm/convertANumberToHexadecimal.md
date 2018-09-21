@@ -34,6 +34,11 @@ toString(2) 转换为二进制再转换为十六进制
 `64ms` `100.00%`
 
 ```javascript
+/**
+ * @param {number} num
+ * @return {string}
+ */
+var toHex = function(num) {
   let binary = '';
 
   if (num >= 0) {
@@ -58,7 +63,7 @@ toString(2) 转换为二进制再转换为十六进制
   // 二进制转换十六进制
   function binaryToHex(binary) {
     let hex = '', temp = '';
-
+    
     while (binary.length) {
       // 二进制
       temp = binary.slice(0, 4);
@@ -81,6 +86,7 @@ toString(2) 转换为二进制再转换为十六进制
 
     return hex;
   }
+};
 ```
 
 ## 参考 ##
