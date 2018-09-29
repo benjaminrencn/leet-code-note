@@ -94,6 +94,7 @@ LeetCode (中国) 笔记
 * 409\. <a id="problemSet.algorithm.longestPalindrome"></a>最长回文串&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.longestPalindrome]
 * 412\. <a id="problemSet.algorithm.fizzBuzz"></a>Fizz Buzz&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.fizzBuzz]
 * 414\. <a id="problemSet.algorithm.thirdMaximumNumber"></a>第三大的数&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.thirdMaximumNumber]
+* 415\. <a id="problemSet.algorithm.addStrings"></a>字符串相加&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][problemSet.algorithm.addStrings]
 
 ## 参考 ##
 
@@ -191,4 +192,5 @@ LeetCode (中国) 笔记
 [problemSet.algorithm.longestPalindrome]: problemSet/algorithm/longestPalindrome.md#longestPalindrome "最长回文串"
 [problemSet.algorithm.fizzBuzz]: problemSet/algorithm/fizzBuzz.md#fizzBuzz "Fizz Buzz"
 [problemSet.algorithm.thirdMaximumNumber]: problemSet/algorithm/thirdMaximumNumber.md#thirdMaximumNumber "第三大的数"
+[problemSet.algorithm.addStrings]: problemSet/algorithm/addStrings.md#addStrings "字符串相加"
 <!-- 链接 结束 -->
